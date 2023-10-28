@@ -1,4 +1,4 @@
-const cacheName = "Vi Mp3-Vi Launcher-1";
+const cacheName = "Vi Kawaii-Vi Launcher-1";
 const contentToCache = [
     "Build/Build.loader.js",
     "Build/Build.framework.js",
